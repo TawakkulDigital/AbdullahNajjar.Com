@@ -8655,3 +8655,7 @@ body {
 	overflow: hidden;
   }
   
+  .glow-text {
+	text-shadow: 0 0 5px #0066ff, 0 0 10px #0066ff, 0 0 15px #0066ff;
+  }
+  
